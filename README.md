@@ -79,5 +79,5 @@ This project demonstrates how **business intelligence tools** like Power BI can 
 ---
 
 ## 🤝 Connect With Me
-- GitHub: [Your GitHub Link]  
-- LinkedIn: [Your LinkedIn Profile]  
+- GitHub: https://github.com/sktprathap  
+- LinkedIn: https://www.linkedin.com/in/prathap-m-5a1903267 
